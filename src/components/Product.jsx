@@ -9,6 +9,7 @@ function Product({val,mover, count}) {
             <div className='dets w-1/3'>
                 <p className='mb-10'>
                     {val.description}
+                    
                 </p>
                 <div className='flex gap-5'>
                 {val.live && <Button/>}

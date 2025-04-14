@@ -7,6 +7,7 @@ function Stripe({val,index}) {
       <span key={index} className='font-semibold'>{val.number}</span>
     </div>
   )
+  
 }
 
 export default Stripe
