@@ -1,5 +1,5 @@
 import React from 'react'
-import NavBar from './components/Navbar'
+import Navbar from './components/Navbar'
 import Work from './components/Work'
 import Stripes from './components/Stripes'
 import Products from './components/Products'
